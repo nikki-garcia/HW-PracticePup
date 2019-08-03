@@ -1,0 +1,87 @@
+nav {
+    height: 50px;
+    background-color: lightgray;
+    margin: 0 auto;
+    
+  }
+  
+
+  body{
+      font-family: Arial, Helvetica, sans-serif;
+  }
+  /* target the class of inline-block below */
+  .inline-block{
+    display: inline-block;
+    padding: 16px;
+    background-color: rgb(51, 50, 50);
+    
+    
+  }
+  
+  .duke{
+      font-size: 20px;
+      color: white;
+  }
+
+
+  a{
+      color: white;
+  }
+
+  /* target the class of .left below */
+  .petprof{
+    padding-top: 20px;
+  }
+  
+  .left{
+    height:800px;
+    float: left;
+    background-color: blue;
+    width: 29%;
+    text-align: center;
+    
+  }
+
+  .petcontainer{
+    background-color: orangered;
+    padding-top: 20px;
+    height: 100%;
+    text-align: left;
+    padding-left: 32px;
+    color: white;
+  }
+
+
+
+  /* target the class of .right below */
+  .right{
+    height: 800px;
+    float: left;
+    width: 70%;
+    background-color: teal;
+    text-align: center;
+   
+  
+  }
+
+  .separator{
+    width: 750px;
+    margin: 0 auto;
+   
+}
+
+.leftpic{
+    float: left;
+    padding-right: 15px;
+    height: 300px;
+}
+
+.card{
+    display: inline-block;
+    background-color: #C6C6C6;
+    border-radius: 5px;
+    height: 200px;
+    width: 150px;
+    margin: 35px;
+    margin-top: 50px;
+  }
